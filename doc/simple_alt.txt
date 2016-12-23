@@ -1,0 +1,12 @@
+*simple_alt.txt* Plugin that switches between cpp/c++ and .h/hpp files.
+
+It works similarly to [a.vim] and [FSwitch], but it is super simple.
+
+						*simple_alt-mapping*
+
+Map your favorite key to the Alt command.
+>
+  nmap <leader>l :Alt<cr>
+<
+
+vim: ft=help noet ts=8 sts=8 sw=8
